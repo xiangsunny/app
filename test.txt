@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 #this is test for pull
 20160511 1515
+=======
+#delete the commit 
+#this is from ubuntu
+>>>>>>> 7f91a2f5a1429b37ad85c10fc332c41ee2ab0dbc
+#20160511 1526
