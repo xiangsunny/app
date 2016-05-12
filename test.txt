@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+#this is test for pull
+20160511 1515
+=======
 #delete the commit 
 #this is from ubuntu
+<<<<<<< HEAD
 #20160512 1113
+=======
+>>>>>>> 7f91a2f5a1429b37ad85c10fc332c41ee2ab0dbc
+#20160511 1526
+>>>>>>> 9e447c9a19fba78952a014a2cad91a7e07fcd618
+#20160512 1115
